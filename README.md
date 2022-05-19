@@ -4,7 +4,8 @@
  Abaixo você encontra meus códigos realizados no curso (do mais recente pro mais antigo).</p> 
  
 <ul>
-  <li><a href="https://github.com/amandavsadev/Python/blob/main/Media.py" target="_blank"> Média; </a></li>
+  <li><a href="https://github.com/amandavsadev/Python/blob/main/Media.py" target="_blank"> Média;</a></li>
+  <li><a href="https://github.com/amandavsadev/Python/blob/main/ImparPar.py" target="_blank"> ímpar ou Par;</a></li>
   <li><a href="https://github.com/amandavsadev/Python/blob/main/MaiorTres.py" target"_blank"> Maior de Três.</a></li>
 </ul>
 
