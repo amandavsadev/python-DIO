@@ -1,4 +1,4 @@
-# Função do programa: Mostrar qual dos 3 números é maior.
+# Função do programa: Mostra qual dos 3 números é maior.
 # Autora: Amanda Amorim
 
 a = int(input('Primeiro Valor: '))
