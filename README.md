@@ -5,7 +5,6 @@
  
 <ul>
   <li><a href="https://github.com/amandavsadev/Python/blob/main/IgualDiferente.py" target="_blank" rel="external"> Igual ou Diferente;</a></li>
- <img align="right" alt="Amanda-Pic" height="130" style="border-radius:50px;" src="https://github.com/amandavsadev/amandavsadev/raw/main/gif-amanda.png">
   <li><a href="https://github.com/amandavsadev/Python/blob/main/Media.py" target="_blank"> Média;</a></li>
   <li><a href="https://github.com/amandavsadev/Python/blob/main/ImparPar.py" target="_blank"> ímpar ou Par;</a></li>
   <li><a href="https://github.com/amandavsadev/Python/blob/main/MaiorTres.py" target"_blank"> Maior de Três.</a></li>
